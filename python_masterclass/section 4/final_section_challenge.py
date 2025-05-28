@@ -1,7 +1,7 @@
 print("Author: Alexander | Python")
 print()
 
-user_input = -1
+user_input = "-"
 
 while user_input != "0":
 
