@@ -359,3 +359,14 @@
 
 # data = "1:A, 2:B, 3:C, 4:D, 5:E, 6:F, 7:G, 8:H"
 # print(data[1:5])
+
+# print()
+# print("Python | Alexander")
+# print()
+
+# data = "1:A, 2:B, 3:C, 4:D, 5:E, 6:F, 7:G, 8:H"
+# print(data[1:5])
+# print()
+
+# data2 = "alexander"
+# print(data2[0:4])
